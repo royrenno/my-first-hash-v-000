@@ -1,5 +1,5 @@
 def my_hash
-  hash = {"name " => "Wendy", "eyes" => "blue"}
+  hash = {"name" => "Wendy", "Wife" => "Sexy"}
 end
 
 def shipping_manifest
