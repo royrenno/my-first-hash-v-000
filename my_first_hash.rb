@@ -1,5 +1,5 @@
 def my_hash
-  hash = {"key" => "value", "another_key" => "another value"}
+  hash = {"name " => "Wendy", "eyes" => "blue"}
 end
 
 def shipping_manifest
@@ -23,7 +23,6 @@ def adding
                  }
 
   shipping_manifest["muskets"]=2
-
 
   shipping_manifest["gun powder"]=4
 
